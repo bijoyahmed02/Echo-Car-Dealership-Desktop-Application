@@ -1,0 +1,1 @@
+﻿insert into Payment([Card Name],[Card Number],[Expire Date],[CVV],[Amount]) output inserted.id values('Visa','3','01/12/2024','888','100000');

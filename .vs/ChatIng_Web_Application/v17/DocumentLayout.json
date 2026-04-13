@@ -1,0 +1,423 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{784626FE-4C69-4B9F-8546-1A5E6E1629E7}|ChatIng_Web_Application\\ChatIng_Web_Application.csproj|e:\\c_sharp_code\\c_sharp_project\\chating_web_application\\chating_web_application\\admin_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{784626FE-4C69-4B9F-8546-1A5E6E1629E7}|ChatIng_Web_Application\\ChatIng_Web_Application.csproj|solutionrelative:chating_web_application\\admin_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784626FE-4C69-4B9F-8546-1A5E6E1629E7}|ChatIng_Web_Application\\ChatIng_Web_Application.csproj|e:\\c_sharp_code\\c_sharp_project\\chating_web_application\\chating_web_application\\admin_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784626FE-4C69-4B9F-8546-1A5E6E1629E7}|ChatIng_Web_Application\\ChatIng_Web_Application.csproj|solutionrelative:chating_web_application\\admin_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784626FE-4C69-4B9F-8546-1A5E6E1629E7}|ChatIng_Web_Application\\ChatIng_Web_Application.csproj|E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\chating_web_application\\d_customar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{784626FE-4C69-4B9F-8546-1A5E6E1629E7}|ChatIng_Web_Application\\ChatIng_Web_Application.csproj|solutionrelative:chating_web_application\\d_customar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784626FE-4C69-4B9F-8546-1A5E6E1629E7}|ChatIng_Web_Application\\ChatIng_Web_Application.csproj|E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\chating_web_application\\sign_up_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{784626FE-4C69-4B9F-8546-1A5E6E1629E7}|ChatIng_Web_Application\\ChatIng_Web_Application.csproj|solutionrelative:chating_web_application\\sign_up_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784626FE-4C69-4B9F-8546-1A5E6E1629E7}|ChatIng_Web_Application\\ChatIng_Web_Application.csproj|E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\chating_web_application\\sign_in_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{784626FE-4C69-4B9F-8546-1A5E6E1629E7}|ChatIng_Web_Application\\ChatIng_Web_Application.csproj|solutionrelative:chating_web_application\\sign_in_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784626FE-4C69-4B9F-8546-1A5E6E1629E7}|ChatIng_Web_Application\\ChatIng_Web_Application.csproj|E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\chating_web_application\\d_products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{784626FE-4C69-4B9F-8546-1A5E6E1629E7}|ChatIng_Web_Application\\ChatIng_Web_Application.csproj|solutionrelative:chating_web_application\\d_products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784626FE-4C69-4B9F-8546-1A5E6E1629E7}|ChatIng_Web_Application\\ChatIng_Web_Application.csproj|E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\chating_web_application\\d_employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{784626FE-4C69-4B9F-8546-1A5E6E1629E7}|ChatIng_Web_Application\\ChatIng_Web_Application.csproj|solutionrelative:chating_web_application\\d_employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784626FE-4C69-4B9F-8546-1A5E6E1629E7}|ChatIng_Web_Application\\ChatIng_Web_Application.csproj|E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\chating_web_application\\d_dprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{784626FE-4C69-4B9F-8546-1A5E6E1629E7}|ChatIng_Web_Application\\ChatIng_Web_Application.csproj|solutionrelative:chating_web_application\\d_dprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784626FE-4C69-4B9F-8546-1A5E6E1629E7}|ChatIng_Web_Application\\ChatIng_Web_Application.csproj|E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\chating_web_application\\d-billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{784626FE-4C69-4B9F-8546-1A5E6E1629E7}|ChatIng_Web_Application\\ChatIng_Web_Application.csproj|solutionrelative:chating_web_application\\d-billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784626FE-4C69-4B9F-8546-1A5E6E1629E7}|ChatIng_Web_Application\\ChatIng_Web_Application.csproj|E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\chating_web_application\\d-billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784626FE-4C69-4B9F-8546-1A5E6E1629E7}|ChatIng_Web_Application\\ChatIng_Web_Application.csproj|solutionrelative:chating_web_application\\d-billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784626FE-4C69-4B9F-8546-1A5E6E1629E7}|ChatIng_Web_Application\\ChatIng_Web_Application.csproj|E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\chating_web_application\\main_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{784626FE-4C69-4B9F-8546-1A5E6E1629E7}|ChatIng_Web_Application\\ChatIng_Web_Application.csproj|solutionrelative:chating_web_application\\main_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784626FE-4C69-4B9F-8546-1A5E6E1629E7}|ChatIng_Web_Application\\ChatIng_Web_Application.csproj|E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\chating_web_application\\mail_verification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{784626FE-4C69-4B9F-8546-1A5E6E1629E7}|ChatIng_Web_Application\\ChatIng_Web_Application.csproj|solutionrelative:chating_web_application\\mail_verification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784626FE-4C69-4B9F-8546-1A5E6E1629E7}|ChatIng_Web_Application\\ChatIng_Web_Application.csproj|E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\chating_web_application\\d_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{784626FE-4C69-4B9F-8546-1A5E6E1629E7}|ChatIng_Web_Application\\ChatIng_Web_Application.csproj|solutionrelative:chating_web_application\\d_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784626FE-4C69-4B9F-8546-1A5E6E1629E7}|ChatIng_Web_Application\\ChatIng_Web_Application.csproj|E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\chating_web_application\\d_customar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784626FE-4C69-4B9F-8546-1A5E6E1629E7}|ChatIng_Web_Application\\ChatIng_Web_Application.csproj|solutionrelative:chating_web_application\\d_customar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784626FE-4C69-4B9F-8546-1A5E6E1629E7}|ChatIng_Web_Application\\ChatIng_Web_Application.csproj|E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\chating_web_application\\d_employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784626FE-4C69-4B9F-8546-1A5E6E1629E7}|ChatIng_Web_Application\\ChatIng_Web_Application.csproj|solutionrelative:chating_web_application\\d_employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784626FE-4C69-4B9F-8546-1A5E6E1629E7}|ChatIng_Web_Application\\ChatIng_Web_Application.csproj|E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\chating_web_application\\d_products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784626FE-4C69-4B9F-8546-1A5E6E1629E7}|ChatIng_Web_Application\\ChatIng_Web_Application.csproj|solutionrelative:chating_web_application\\d_products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784626FE-4C69-4B9F-8546-1A5E6E1629E7}|ChatIng_Web_Application\\ChatIng_Web_Application.csproj|E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\chating_web_application\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{784626FE-4C69-4B9F-8546-1A5E6E1629E7}|ChatIng_Web_Application\\ChatIng_Web_Application.csproj|solutionrelative:chating_web_application\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784626FE-4C69-4B9F-8546-1A5E6E1629E7}|ChatIng_Web_Application\\ChatIng_Web_Application.csproj|E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\chating_web_application\\main_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784626FE-4C69-4B9F-8546-1A5E6E1629E7}|ChatIng_Web_Application\\ChatIng_Web_Application.csproj|solutionrelative:chating_web_application\\main_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784626FE-4C69-4B9F-8546-1A5E6E1629E7}|ChatIng_Web_Application\\ChatIng_Web_Application.csproj|E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\chating_web_application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784626FE-4C69-4B9F-8546-1A5E6E1629E7}|ChatIng_Web_Application\\ChatIng_Web_Application.csproj|solutionrelative:chating_web_application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784626FE-4C69-4B9F-8546-1A5E6E1629E7}|ChatIng_Web_Application\\ChatIng_Web_Application.csproj|E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\chating_web_application\\sign_up_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784626FE-4C69-4B9F-8546-1A5E6E1629E7}|ChatIng_Web_Application\\ChatIng_Web_Application.csproj|solutionrelative:chating_web_application\\sign_up_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784626FE-4C69-4B9F-8546-1A5E6E1629E7}|ChatIng_Web_Application\\ChatIng_Web_Application.csproj|E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\chating_web_application\\mail_verification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784626FE-4C69-4B9F-8546-1A5E6E1629E7}|ChatIng_Web_Application\\ChatIng_Web_Application.csproj|solutionrelative:chating_web_application\\mail_verification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784626FE-4C69-4B9F-8546-1A5E6E1629E7}|ChatIng_Web_Application\\ChatIng_Web_Application.csproj|E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\chating_web_application\\sign_in_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784626FE-4C69-4B9F-8546-1A5E6E1629E7}|ChatIng_Web_Application\\ChatIng_Web_Application.csproj|solutionrelative:chating_web_application\\sign_in_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784626FE-4C69-4B9F-8546-1A5E6E1629E7}|ChatIng_Web_Application\\ChatIng_Web_Application.csproj|E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\chating_web_application\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784626FE-4C69-4B9F-8546-1A5E6E1629E7}|ChatIng_Web_Application\\ChatIng_Web_Application.csproj|solutionrelative:chating_web_application\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784626FE-4C69-4B9F-8546-1A5E6E1629E7}|ChatIng_Web_Application\\ChatIng_Web_Application.csproj|E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\chating_web_application\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{784626FE-4C69-4B9F-8546-1A5E6E1629E7}|ChatIng_Web_Application\\ChatIng_Web_Application.csproj|solutionrelative:chating_web_application\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784626FE-4C69-4B9F-8546-1A5E6E1629E7}|ChatIng_Web_Application\\ChatIng_Web_Application.csproj|E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\chating_web_application\\d_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784626FE-4C69-4B9F-8546-1A5E6E1629E7}|ChatIng_Web_Application\\ChatIng_Web_Application.csproj|solutionrelative:chating_web_application\\d_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Admin_Page.cs",
+              "DocumentMoniker": "E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\ChatIng_Web_Application\\Admin_Page.cs",
+              "RelativeDocumentMoniker": "ChatIng_Web_Application\\Admin_Page.cs",
+              "ToolTip": "E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\ChatIng_Web_Application\\Admin_Page.cs",
+              "RelativeToolTip": "ChatIng_Web_Application\\Admin_Page.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAuwJwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T00:56:40.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Admin_Page.cs [Design]",
+              "DocumentMoniker": "E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\ChatIng_Web_Application\\Admin_Page.cs",
+              "RelativeDocumentMoniker": "ChatIng_Web_Application\\Admin_Page.cs",
+              "ToolTip": "E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\ChatIng_Web_Application\\Admin_Page.cs [Design]",
+              "RelativeToolTip": "ChatIng_Web_Application\\Admin_Page.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T17:06:58.34Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "d_Customar.cs [Design]",
+              "DocumentMoniker": "E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\ChatIng_Web_Application\\d_Customar.cs",
+              "RelativeDocumentMoniker": "ChatIng_Web_Application\\d_Customar.cs",
+              "ToolTip": "E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\ChatIng_Web_Application\\d_Customar.cs [Design]",
+              "RelativeToolTip": "ChatIng_Web_Application\\d_Customar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T10:54:13.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "d_employee.cs [Design]",
+              "DocumentMoniker": "E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\ChatIng_Web_Application\\d_employee.cs",
+              "RelativeDocumentMoniker": "ChatIng_Web_Application\\d_employee.cs",
+              "ToolTip": "E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\ChatIng_Web_Application\\d_employee.cs [Design]",
+              "RelativeToolTip": "ChatIng_Web_Application\\d_employee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T21:04:32.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "d_products.cs [Design]",
+              "DocumentMoniker": "E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\ChatIng_Web_Application\\d_products.cs",
+              "RelativeDocumentMoniker": "ChatIng_Web_Application\\d_products.cs",
+              "ToolTip": "E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\ChatIng_Web_Application\\d_products.cs [Design]",
+              "RelativeToolTip": "ChatIng_Web_Application\\d_products.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T21:04:19.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sign_In_page.cs [Design]",
+              "DocumentMoniker": "E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\ChatIng_Web_Application\\Sign_In_page.cs",
+              "RelativeDocumentMoniker": "ChatIng_Web_Application\\Sign_In_page.cs",
+              "ToolTip": "E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\ChatIng_Web_Application\\Sign_In_page.cs [Design]",
+              "RelativeToolTip": "ChatIng_Web_Application\\Sign_In_page.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T12:31:44.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sign_Up_Page.cs [Design]",
+              "DocumentMoniker": "E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\ChatIng_Web_Application\\Sign_Up_Page.cs",
+              "RelativeDocumentMoniker": "ChatIng_Web_Application\\Sign_Up_Page.cs",
+              "ToolTip": "E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\ChatIng_Web_Application\\Sign_Up_Page.cs [Design]",
+              "RelativeToolTip": "ChatIng_Web_Application\\Sign_Up_Page.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T12:31:49.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "d_dprocess.cs [Design]",
+              "DocumentMoniker": "E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\ChatIng_Web_Application\\d_dprocess.cs",
+              "RelativeDocumentMoniker": "ChatIng_Web_Application\\d_dprocess.cs",
+              "ToolTip": "E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\ChatIng_Web_Application\\d_dprocess.cs [Design]",
+              "RelativeToolTip": "ChatIng_Web_Application\\d_dprocess.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T17:56:56.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "d-billing.cs [Design]",
+              "DocumentMoniker": "E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\ChatIng_Web_Application\\d-billing.cs",
+              "RelativeDocumentMoniker": "ChatIng_Web_Application\\d-billing.cs",
+              "ToolTip": "E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\ChatIng_Web_Application\\d-billing.cs [Design]",
+              "RelativeToolTip": "ChatIng_Web_Application\\d-billing.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T10:42:54.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "d-billing.cs",
+              "DocumentMoniker": "E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\ChatIng_Web_Application\\d-billing.cs",
+              "RelativeDocumentMoniker": "ChatIng_Web_Application\\d-billing.cs",
+              "ToolTip": "E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\ChatIng_Web_Application\\d-billing.cs",
+              "RelativeToolTip": "ChatIng_Web_Application\\d-billing.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAawJcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T10:43:36.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Main_Page.cs [Design]",
+              "DocumentMoniker": "E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\ChatIng_Web_Application\\Main_Page.cs",
+              "RelativeDocumentMoniker": "ChatIng_Web_Application\\Main_Page.cs",
+              "ToolTip": "E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\ChatIng_Web_Application\\Main_Page.cs [Design]",
+              "RelativeToolTip": "ChatIng_Web_Application\\Main_Page.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T13:12:20.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Mail_Verification.cs [Design]",
+              "DocumentMoniker": "E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\ChatIng_Web_Application\\Mail_Verification.cs",
+              "RelativeDocumentMoniker": "ChatIng_Web_Application\\Mail_Verification.cs",
+              "ToolTip": "E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\ChatIng_Web_Application\\Mail_Verification.cs [Design]",
+              "RelativeToolTip": "ChatIng_Web_Application\\Mail_Verification.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T05:16:57.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "d_home.cs [Design]",
+              "DocumentMoniker": "E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\ChatIng_Web_Application\\d_home.cs",
+              "RelativeDocumentMoniker": "ChatIng_Web_Application\\d_home.cs",
+              "ToolTip": "E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\ChatIng_Web_Application\\d_home.cs [Design]",
+              "RelativeToolTip": "ChatIng_Web_Application\\d_home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T17:48:17.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "d_Customar.cs",
+              "DocumentMoniker": "E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\ChatIng_Web_Application\\d_Customar.cs",
+              "RelativeDocumentMoniker": "ChatIng_Web_Application\\d_Customar.cs",
+              "ToolTip": "E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\ChatIng_Web_Application\\d_Customar.cs",
+              "RelativeToolTip": "ChatIng_Web_Application\\d_Customar.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T18:03:07.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "payment.cs [Design]",
+              "DocumentMoniker": "E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\ChatIng_Web_Application\\payment.cs",
+              "RelativeDocumentMoniker": "ChatIng_Web_Application\\payment.cs",
+              "ToolTip": "E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\ChatIng_Web_Application\\payment.cs [Design]",
+              "RelativeToolTip": "ChatIng_Web_Application\\payment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T13:19:10.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "d_employee.cs",
+              "DocumentMoniker": "E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\ChatIng_Web_Application\\d_employee.cs",
+              "RelativeDocumentMoniker": "ChatIng_Web_Application\\d_employee.cs",
+              "ToolTip": "E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\ChatIng_Web_Application\\d_employee.cs",
+              "RelativeToolTip": "ChatIng_Web_Application\\d_employee.cs",
+              "ViewState": "AgIAAO4AAAAAAAAAAAD4v/oAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T21:13:15.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "d_products.cs",
+              "DocumentMoniker": "E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\ChatIng_Web_Application\\d_products.cs",
+              "RelativeDocumentMoniker": "ChatIng_Web_Application\\d_products.cs",
+              "ToolTip": "E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\ChatIng_Web_Application\\d_products.cs",
+              "RelativeToolTip": "ChatIng_Web_Application\\d_products.cs",
+              "ViewState": "AgIAAPsAAAAAAAAAAAAQwAkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T21:52:10.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Main_Page.cs",
+              "DocumentMoniker": "E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\ChatIng_Web_Application\\Main_Page.cs",
+              "RelativeDocumentMoniker": "ChatIng_Web_Application\\Main_Page.cs",
+              "ToolTip": "E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\ChatIng_Web_Application\\Main_Page.cs",
+              "RelativeToolTip": "ChatIng_Web_Application\\Main_Page.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAApwFIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T13:12:29.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\ChatIng_Web_Application\\Program.cs",
+              "RelativeDocumentMoniker": "ChatIng_Web_Application\\Program.cs",
+              "ToolTip": "E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\ChatIng_Web_Application\\Program.cs",
+              "RelativeToolTip": "ChatIng_Web_Application\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T12:53:05.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Shop.cs [Design]",
+              "DocumentMoniker": "E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\ChatIng_Web_Application\\Shop.cs",
+              "RelativeDocumentMoniker": "ChatIng_Web_Application\\Shop.cs",
+              "ToolTip": "E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\ChatIng_Web_Application\\Shop.cs [Design]",
+              "RelativeToolTip": "ChatIng_Web_Application\\Shop.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T13:18:35.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Sign_Up_Page.cs",
+              "DocumentMoniker": "E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\ChatIng_Web_Application\\Sign_Up_Page.cs",
+              "RelativeDocumentMoniker": "ChatIng_Web_Application\\Sign_Up_Page.cs",
+              "ToolTip": "E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\ChatIng_Web_Application\\Sign_Up_Page.cs",
+              "RelativeToolTip": "ChatIng_Web_Application\\Sign_Up_Page.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAmwHcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T12:33:58.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Shop.cs",
+              "DocumentMoniker": "E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\ChatIng_Web_Application\\Shop.cs",
+              "RelativeDocumentMoniker": "ChatIng_Web_Application\\Shop.cs",
+              "ToolTip": "E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\ChatIng_Web_Application\\Shop.cs",
+              "RelativeToolTip": "ChatIng_Web_Application\\Shop.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAcwH8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T05:16:36.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Mail_Verification.cs",
+              "DocumentMoniker": "E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\ChatIng_Web_Application\\Mail_Verification.cs",
+              "RelativeDocumentMoniker": "ChatIng_Web_Application\\Mail_Verification.cs",
+              "ToolTip": "E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\ChatIng_Web_Application\\Mail_Verification.cs",
+              "RelativeToolTip": "ChatIng_Web_Application\\Mail_Verification.cs",
+              "ViewState": "AgIAAN8AAAAAAAAAAAAcwO8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T05:17:00.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Sign_In_page.cs",
+              "DocumentMoniker": "E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\ChatIng_Web_Application\\Sign_In_page.cs",
+              "RelativeDocumentMoniker": "ChatIng_Web_Application\\Sign_In_page.cs",
+              "ToolTip": "E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\ChatIng_Web_Application\\Sign_In_page.cs",
+              "RelativeToolTip": "ChatIng_Web_Application\\Sign_In_page.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAcwIUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T13:07:07.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "d_home.cs",
+              "DocumentMoniker": "E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\ChatIng_Web_Application\\d_home.cs",
+              "RelativeDocumentMoniker": "ChatIng_Web_Application\\d_home.cs",
+              "ToolTip": "E:\\C_Sharp_Code\\C_Sharp_Project\\ChatIng_Web_Application\\ChatIng_Web_Application\\d_home.cs",
+              "RelativeToolTip": "ChatIng_Web_Application\\d_home.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwCUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T17:48:18.861Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 88,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
