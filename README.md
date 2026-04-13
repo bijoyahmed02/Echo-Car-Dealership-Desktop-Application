@@ -1,6 +1,6 @@
-# 🚗 Echo Car Dealership
+# 🌐 Echo Car Dealership - Web Application
 
-A desktop-based car dealership management system developed in **C#** with **SQL Server** database integration. This application helps automate inventory management, customer handling, billing, and delivery processes for a car dealership.
+A web-based car dealership management system developed using **C#** with **SQL Server** database integration. This application helps automate inventory management, customer handling, billing, and delivery processes for a car dealership through a browser interface.
 
 ## Features
 
@@ -11,13 +11,12 @@ A desktop-based car dealership management system developed in **C#** with **SQL 
 - 📦 Delivery Process Tracking
 - 💳 Billing & Payment System
 - 📧 Email Verification during signup
-- 🧾 User-Friendly GUI (Windows Forms)
+- 🧾 Web-Based User Interface
 
 ## Technologies Used
 
-- **Language:** C# (.NET Framework)
+- **Language:** C#
 - **Database:** Microsoft SQL Server
-- **GUI:** Windows Forms
 - **Tools:** Visual Studio, SSMS
 
 ## Database Tables
@@ -34,26 +33,13 @@ A desktop-based car dealership management system developed in **C#** with **SQL 
 ## How to Run
 
 1. Clone the repository
-2. Open the solution file (`.sln`) in Visual Studio
+2. Open the project in Visual Studio
 3. Run the SQL scripts in SSMS to create the database
-4. Update the connection string in `App.config`
+4. Update the database connection string
 5. Press `F5` to build and run
-
-## Team Members
-
-| Name | ID |
-|------|----|
-| Bijoy Ahamed | 22-49373-3 |
-| Rokiya Ibne Tanha | 22-48833-3 |
-| Rahul Biswas | 22-49413-3 |
-
-## Supervisor
-
-**Jahid Hassan**  
-Department of Computer Science  
-American International University-Bangladesh (AIUB)
 
 ## Project Report
 
 For detailed documentation, ER diagram, and SQL queries, refer to the [project report](./OOP2_Project_Report.pdf).
 
+⭐ Don't forget to star this repository!
