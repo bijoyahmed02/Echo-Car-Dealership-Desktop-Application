@@ -1,6 +1,6 @@
-# 🌐 Echo Car Dealership - Web Application
+# 🚗 Echo Car Dealership - Desktop Application
 
-A web-based car dealership management system developed using **C#** with **SQL Server** database integration. This application helps automate inventory management, customer handling, billing, and delivery processes for a car dealership through a browser interface.
+A desktop-based car dealership management system developed in **C#** with **SQL Server** database integration. This application helps automate inventory management, customer handling, billing, and delivery processes for a car dealership.
 
 ## Features
 
@@ -11,12 +11,13 @@ A web-based car dealership management system developed using **C#** with **SQL S
 - 📦 Delivery Process Tracking
 - 💳 Billing & Payment System
 - 📧 Email Verification during signup
-- 🧾 Web-Based User Interface
+- 🖥️ User-Friendly GUI (Windows Forms)
 
 ## Technologies Used
 
 - **Language:** C#
 - **Database:** Microsoft SQL Server
+- **GUI:** Windows Forms
 - **Tools:** Visual Studio, SSMS
 
 ## Database Tables
